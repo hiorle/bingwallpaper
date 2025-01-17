@@ -30,11 +30,12 @@ body, html {
     position: absolute;
     bottom: 10px;
     left: 10px;
+    max-width: 70vw;
     color: white;
     font-family: LXGW WenKai Screen;
     font-size: 1em;
     padding: 5px;
-    background-color: rgba(0, 0, 0, 0.9);
+    background-color: rgba(0, 0, 0, 0.5);
     z-index: 10;
 }
 
