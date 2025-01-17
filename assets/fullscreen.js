@@ -9,7 +9,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
     let allData = [];
     let currentIndex = -1;
-    const highResSuffix = '_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2560&rs=1&c=4';
+    const highResSuffix = '_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4';
     let touchStartX = 0;
     const swipeThreshold = 50;
 
