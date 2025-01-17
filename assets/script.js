@@ -5,7 +5,7 @@ document.addEventListener('DOMContentLoaded', function() {
     const nextPageButton = document.getElementById('nextPage');
     const pageNumbersDiv = document.getElementById('pageNumbers');
 
-    const itemsPerPage = 4;
+    const itemsPerPage = 36;
     let currentPage = 1;
     let allData = [];
     const suffix = '_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=960&h=540&rs=1&c=4';
