@@ -11,7 +11,7 @@ document.addEventListener('DOMContentLoaded', function() {
     let currentIndex = -1;
     const highResSuffix = '_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2560&rs=1&c=4';
     let touchStartX = 0;
-    const swipeThreshold = 50; // 定义滑动的最小距离
+    const swipeThreshold = 50;
 
     fetch('../../data/data.json')
         .then(response => response.json())
@@ -84,7 +84,6 @@ document.addEventListener('DOMContentLoaded', function() {
         }
     });
 
-    // 添加触摸事件监听器
     imageViewerContainer.addEventListener('touchstart', (e) => {
         touchStartX = e.touches[0].clientX;
     }, false);
@@ -99,19 +98,17 @@ document.addEventListener('DOMContentLoaded', function() {
 
         if (Math.abs(deltaX) > swipeThreshold) {
             if (deltaX > 0) {
-                // 向右滑动，显示上一张
                 if (allData.length > 0) {
                     currentIndex = (currentIndex - 1 + allData.length) % allData.length;
                     displayImage(currentIndex);
                 }
             } else {
-                // 向左滑动，显示下一张
                 if (allData.length > 0) {
                     currentIndex = (currentIndex + 1) % allData.length;
                     displayImage(currentIndex);
                 }
             }
         }
-        touchStartX = 0; // 重置 touchStartX
+        touchStartX = 0;
     }, false);
 });
