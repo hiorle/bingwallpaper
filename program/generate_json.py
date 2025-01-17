@@ -7,7 +7,7 @@ def generate_data_json():
     response = requests.get(api_url)
     response.raise_for_status()
     image_data = response.json()['images'][0]
-    image_urlbase = urljoin("https://bing.com", image_data['urlbase'])
+    image_urlbase = urljoin("https://cn.bing.com", image_data['urlbase'])
     copyright = image_data['copyright']
     image_date = image_data['startdate']
 
