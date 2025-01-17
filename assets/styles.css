@@ -49,7 +49,7 @@ body {
 
 #pagination {
     display: none;
-    gap: 5px;
+    gap: 10px;
     align-items: center;
 }
 
@@ -76,7 +76,7 @@ body {
     border: 1px solid #ccc;
     background-color: #fff;
     cursor: pointer;
-    margin: 0 2px;
+    margin: 0 3px;
 }
 
 #pageNumbers button.active {
