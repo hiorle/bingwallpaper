@@ -1,0 +1,89 @@
+body {
+    max-width: 1500px;
+    margin: 20px auto;
+    padding: 30px 10px;
+    font-family: LXGW WenKai Screen;
+}
+
+#content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#wallpapers-container {
+    width: 100%;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(360px, 1fr));
+    gap: 15px;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+@media (max-width: 768px) {
+    #wallpapers-container {
+        grid-template-columns: 1fr;
+    }
+}
+
+#wallpapers-container div {
+    margin-bottom: 0;
+    border: 1px solid #ddd;
+    padding: 10px;
+    overflow: hidden;
+}
+
+#wallpapers-container img {
+    aspect-ratio: 16/9;
+    width: 100%;
+    height: auto;
+    display: block;
+    margin-bottom: 5px;
+}
+
+#wallpapers-container span {
+    font-size: 0.9em;
+    color: #666;
+}
+
+#pagination {
+    display: none;
+    gap: 10px;
+    align-items: center;
+}
+
+#pagination button {
+    width: 60px;
+    height: 30px;
+    border: 1px solid #ccc;
+    background-color: #f0f0f0;
+    cursor: pointer;
+    font-family: inherit;
+    font-size: 0.9em;
+}
+
+#pagination button:disabled {
+    background-color: #eee;
+    color: #999;
+    cursor: not-allowed;
+}
+
+#pageNumbers button {
+    width: 30px;
+    height: 30px;
+    padding: 0;
+    border: 1px solid #ccc;
+    background-color: #fff;
+    cursor: pointer;
+    margin: 0 3px;
+}
+
+#pageNumbers button.active {
+    background-color: #0078d4;
+    color: white;
+    border-color: #0078d4;
+}
+
+#pageNumbers span {
+    color: #999;
+}
