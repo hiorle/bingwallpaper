@@ -22,11 +22,8 @@ document.addEventListener('DOMContentLoaded', function() {
             const img = document.createElement('img');
             img.src = item.image_urlbase + suffix;
             img.alt = `Bing Wallpaper`;
-            img.style.cursor = 'pointer';
-            img.addEventListener('click', () => {
-                // 将 image_urlbase 存储到 localStorage
+            div.addEventListener('click', () => {
                 localStorage.setItem('fullscreenImageBaseUrl', item.image_urlbase);
-                // 跳转到新的网页，不带参数
                 const viewerUrl = `fullscreen.html`;
                 window.open(viewerUrl, '_blank');
             });
