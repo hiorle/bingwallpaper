@@ -2,7 +2,7 @@ name: Get Bing Wallpaper
 
 on:
   schedule:
-    - cron: '0 17 * * *'
+    - cron: '5 16 * * *'
   workflow_dispatch:
 
 jobs:
