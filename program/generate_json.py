@@ -3,7 +3,7 @@ import json
 from urllib.parse import urljoin
 
 def generate_data_json():
-    api_url = f"https://global.bing.com/HPImageArchive.aspx?format=js&idx=0&n=1&pid=hp&FORM=BEHPTB&uhd=1&uhdwidth=3840&uhdheight=2160&setmkt=zh-CN&setlang=en"
+    api_url = f"https://global.bing.com/HPImageArchive.aspx?format=js&mkt=zh-CN&n=1"
     response = requests.get(api_url)
     response.raise_for_status()
     image_data = response.json()['images'][0]
