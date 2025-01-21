@@ -4,13 +4,13 @@ from urllib.parse import urljoin
 
 def generate_readme():
     readme_content = ""
-    api_url = "https://global.bing.com/HPImageArchive.aspx?format=js&idx=0&n=1&pid=hp&FORM=BEHPTB&uhd=1&uhdwidth=3840&uhdheight=2160&setmkt=zh-CN&setlang=en"
+    api_url = f"https://global.bing.com/HPImageArchive.aspx?format=js&mkt=zh-CN&n=1"
     response = requests.get(api_url)
     response.raise_for_status()
     data = response.json()
     image = data['images'][0]
     readme_content += f"""<div align="center">
-<img src="{urljoin("https://cn.bing.com", image['url'])}" alt="Bing Wallpaper" width="100%">
+<img src="{urljoin("https://bing.com", image_data['urlbase'] + "_UHD.jpg")}" alt="Bing Wallpaper" width="100%">
 <em>{image['copyright']}</em>
 </div>"""
 
