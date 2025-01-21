@@ -11,7 +11,7 @@ def generate_readme():
     image = data['images'][0]
     readme_content += f"""<div align="center">
 <img src="{urljoin("https://cn.bing.com", image['url'])}" alt="Bing Wallpaper" width="100%">
-<em>{image['copyright']}</em><br><br>
+<em>{image['copyright']}</em>
 </div>"""
 
     with open("README.md", "w") as f:
