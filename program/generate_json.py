@@ -26,7 +26,7 @@ def generate_data_json():
         existing_data.insert(0, new_entry)
 
         with open(filepath, "w", encoding='utf-8') as f:
-            json.dump(existing_data, f, ensure_ascii=False, indent=4)
+            json.dump(existing_data, f, ensure_ascii=False, indent=2)
 
 if __name__ == "__main__":
     generate_data_json()
