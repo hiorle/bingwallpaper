@@ -8,7 +8,7 @@ document.addEventListener("DOMContentLoaded", function () {
   const itemsPerPage = 36;
   let currentPage = 1;
   let allData = [];
-  const suffix = "_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=960&h=540&rs=1&c=4";
+  const suffix = "_960x540.jpg";
   const visiblePageLinks = 3;
 
   function displayWallpapers(page) {
