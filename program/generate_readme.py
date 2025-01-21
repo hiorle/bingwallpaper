@@ -10,7 +10,7 @@ def generate_readme():
     data = response.json()
     image = data['images'][0]
     readme_content += f"""<div align="center">
-<img src="{urljoin("https://bing.com", image_data['urlbase'] + "_UHD.jpg")}" alt="Bing Wallpaper" width="100%">
+<img src="{urljoin("https://cn.bing.com", image['urlbase'] + "_UHD.jpg")}" alt="Bing Wallpaper" width="100%">
 <em>{image['copyright']}</em>
 </div>"""
 
