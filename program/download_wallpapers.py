@@ -8,13 +8,13 @@ OUTPUT_DIR = "wallpaper"
 
 def download_wallpaper(market):
     country = market.split('-')[1].lower()
-    api_url = f"https://global.bing.com/HPImageArchive.aspx?format=js&idx=0&n=1&pid=hp&FORM=BEHPTB&uhd=1&uhdwidth=3840&uhdheight=2160&setmkt={market}&setlang=en"
+    api_url = f"https://global.bing.com/HPImageArchive.aspx?format=js&mkt={market}&n=1"
     response = requests.get(api_url)
     response.raise_for_status()
 
     image_data = response.json()['images'][0]
     date = image_data['startdate']
-    full_image_url = urljoin("https://bing.com", image_data['url'])
+    full_image_url = urljoin("https://bing.com", image_data['urlbase'], "_UHD.jpg")
 
     output_filename = os.path.join(OUTPUT_DIR, f"{date}{country}.jpg")
 
