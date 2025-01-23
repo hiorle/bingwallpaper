@@ -1,4 +1,4 @@
 <div align="center">
-<img src="https://cn.bing.com/th?id=OHR.DeerValley_ZH-CN6029262704_UHD.jpg" alt="Bing Wallpaper" width="100%">
-<em>黄昏时的鹿谷，帕克城，犹他州，美国 (© Adventure_Photo/Getty Images)</em>
+<img src="https://cn.bing.com/th?id=OHR.IcelandGeyser_ZH-CN2136665867_UHD.jpg" alt="Bing Wallpaper" width="100%">
+<em>冰岛的史托克间歇泉 (© John and Tina Reid/Getty Images)</em>
 </div>
