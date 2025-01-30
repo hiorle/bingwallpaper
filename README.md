@@ -1,4 +1,4 @@
 <div align="center">
-<img src="https://cn.bing.com/th?id=OHR.OrdesaSpain_ZH-CN1445868068_UHD.jpg" alt="Bing Wallpaper" width="100%">
-<em>罗兰多山口，奥德萨和佩迪多山国家公园，西班牙 (© Inaki Relanzon/Nature Picture Library/Alamy Stock Photo)</em>
+<img src="https://cn.bing.com/th?id=OHR.PlainsZebra_ZH-CN1989542307_UHD.jpg" alt="Bing Wallpaper" width="100%">
+<em>日出时的平原斑马，莫卡拉国家公园，南非 (© EcoPrint/Shutterstock)</em>
 </div>
