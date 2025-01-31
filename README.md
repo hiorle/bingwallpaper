@@ -1,4 +1,4 @@
 <div align="center">
-<img src="https://cn.bing.com/th?id=OHR.PlainsZebra_ZH-CN1989542307_UHD.jpg" alt="Bing Wallpaper" width="100%">
-<em>日出时的平原斑马，莫卡拉国家公园，南非 (© EcoPrint/Shutterstock)</em>
+<img src="https://cn.bing.com/th?id=OHR.FestungKonigsteinElbsandsteingebirge_ZH-CN2192655745_UHD.jpg" alt="Bing Wallpaper" width="100%">
+<em>国王岩堡垒 , 瑞士撒克逊, 德国 (© Bildagentur-online/Exss/Alamy)</em>
 </div>
