@@ -13,7 +13,7 @@ def download_wallpaper(market):
     response.raise_for_status()
 
     image_data = response.json()['images'][0]
-    date = image_data['startdate']
+    date = image_data['enddate']
     full_image_url = urljoin("https://bing.com", image_data['urlbase'] + "_UHD.jpg")
 
     output_filename = os.path.join(OUTPUT_DIR, f"{date}{country}.jpg")
