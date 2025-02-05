@@ -9,7 +9,7 @@ def generate_data_json():
     image_data = response.json()['images'][0]
     image_urlbase = urljoin("https://cn.bing.com", image_data['urlbase'])
     copyright = image_data['copyright']
-    image_date = image_data['startdate']
+    image_date = image_data['enddate']
 
     new_entry = {"image_date": image_date, "image_urlbase": image_urlbase, "copyright": copyright}
     filepath = "data/data.json"
