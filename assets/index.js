@@ -4,7 +4,6 @@ document.addEventListener("DOMContentLoaded", function () {
   const prevPageButton = document.getElementById("prevPage");
   const nextPageButton = document.getElementById("nextPage");
   const pageNumbersDiv = document.getElementById("pageNumbers");
-
   const itemsPerPage = 36;
   let currentPage = 1;
   let allData = [];
@@ -16,16 +15,13 @@ document.addEventListener("DOMContentLoaded", function () {
     const startIndex = (page - 1) * itemsPerPage;
     const endIndex = startIndex + itemsPerPage;
     const currentData = allData.slice(startIndex, endIndex);
-
     currentData.forEach((item) => {
       const div = document.createElement("div");
       const img = document.createElement("img");
       img.src = item.image_urlbase + suffix;
-      img.alt = `Bing Wallpaper`;
+      img.alt = "Bing Wallpaper";
       div.addEventListener("click", () => {
-        localStorage.setItem("fullscreenImageBaseUrl", item.image_urlbase);
-        const viewerUrl = `fullscreen.html`;
-        window.open(viewerUrl, "_blank");
+        window.open(`fullscreen.html?date=${item.image_date}`, "_blank");
       });
       const span = document.createElement("span");
       span.textContent = item.copyright;
@@ -35,20 +31,16 @@ document.addEventListener("DOMContentLoaded", function () {
       div.appendChild(br);
       contentDiv.appendChild(div);
     });
-
     window.scrollTo(0, 0);
   }
 
   function updatePaginationButtons() {
     prevPageButton.disabled = currentPage === 1;
     nextPageButton.disabled = currentPage === Math.ceil(allData.length / itemsPerPage);
-
     pageNumbersDiv.innerHTML = "";
     const totalPages = Math.ceil(allData.length / itemsPerPage);
-
     let startPage = Math.max(1, currentPage - Math.floor(visiblePageLinks / 2));
     let endPage = Math.min(totalPages, currentPage + Math.floor(visiblePageLinks / 2));
-
     if (endPage - startPage + 1 < visiblePageLinks) {
       if (startPage === 1) {
         endPage = Math.min(totalPages, visiblePageLinks);
@@ -56,7 +48,6 @@ document.addEventListener("DOMContentLoaded", function () {
         startPage = Math.max(1, totalPages - visiblePageLinks + 1);
       }
     }
-
     if (startPage > 1) {
       const firstPageLink = document.createElement("button");
       firstPageLink.textContent = 1;
@@ -66,14 +57,12 @@ document.addEventListener("DOMContentLoaded", function () {
         updatePaginationButtons();
       });
       pageNumbersDiv.appendChild(firstPageLink);
-
       if (startPage > 2) {
         const ellipsis = document.createElement("span");
         ellipsis.textContent = "...";
         pageNumbersDiv.appendChild(ellipsis);
       }
     }
-
     for (let i = startPage; i <= endPage; i++) {
       const pageLink = document.createElement("button");
       pageLink.textContent = i;
@@ -87,14 +76,12 @@ document.addEventListener("DOMContentLoaded", function () {
       });
       pageNumbersDiv.appendChild(pageLink);
     }
-
     if (endPage < totalPages) {
       if (totalPages - endPage > 1) {
         const ellipsis = document.createElement("span");
         ellipsis.textContent = "...";
         pageNumbersDiv.appendChild(ellipsis);
       }
-
       const lastPageLink = document.createElement("button");
       lastPageLink.textContent = totalPages;
       lastPageLink.addEventListener("click", () => {
