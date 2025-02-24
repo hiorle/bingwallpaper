@@ -50,7 +50,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
   function updateURL(index) {
     const newDate = allData[index].image_date;
-    window.history.pushState({}, "", `fullscreen.html?date=${newDate}`);
+    window.history.pushState({}, "", `fullscreen?date=${newDate}`);
   }
 
   prevButton.addEventListener("click", () => {
