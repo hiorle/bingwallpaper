@@ -1,4 +1,4 @@
 <div align="center">
-<img src="https://cn.bing.com/th?id=OHR.EucalyptusForest_ZH-CN3052498076_UHD.jpg" alt="Bing Wallpaper" width="100%">
-<em>桉树，梅加龙谷，蓝山山脉国家公园，新南威尔士州，澳大利亚 (© Andrew Peacock/TANDEM Stills + Motion)</em>
+<img src="https://cn.bing.com/th?id=OHR.HornbillPair_ZH-CN3380997666_UHD.jpg" alt="Bing Wallpaper" width="100%">
+<em>南黄弯嘴犀鸟，克鲁格国家公园 ，南非 (© Richard Du Toit/Minden Pictures)</em>
 </div>
