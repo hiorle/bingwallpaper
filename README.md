@@ -1,4 +1,4 @@
 <div align="center">
-<img src="https://cn.bing.com/th?id=OHR.MardiGrasJackson_ZH-CN3456301377_UHD.jpg" alt="Bing Wallpaper" width="100%">
-<em>杰克逊广场，新奥尔良，路易斯安那州，美国 (© SeanPavonePhoto/Getty Images)</em>
+<img src="https://cn.bing.com/th?id=OHR.SuratThani_ZH-CN4797096558_UHD.jpg" alt="Bing Wallpaper" width="100%">
+<em>俯瞰拷索山林国家公园，素叻府，泰国 (© Peetatham Kongkapech/Getty Images)</em>
 </div>
