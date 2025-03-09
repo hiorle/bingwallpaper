@@ -1,4 +1,4 @@
 <div align="center">
-<img src="https://cn.bing.com/th?id=OHR.WaddenSeaBiosphereReserve_ZH-CN9012125146_UHD.jpg" alt="Bing Wallpaper" width="100%">
-<em>石勒苏益格-荷尔斯泰因州瓦登海国家公园，德国 (© 3quarks/Getty Images)</em>
+<img src="https://cn.bing.com/th?id=OHR.ItalyClock_ZH-CN0846995743_UHD.jpg" alt="Bing Wallpaper" width="100%">
+<em>圣马可钟楼，威尼斯，意大利 (© scaliger/Getty Images)</em>
 </div>
