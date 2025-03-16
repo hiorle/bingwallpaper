@@ -1,4 +1,4 @@
 <div align="center">
-<img src="https://cn.bing.com/th?id=OHR.PandaSnow_ZH-CN5981854301_UHD.jpg" alt="Bing Wallpaper" width="100%">
-<em>雪地里的大熊猫宝宝，中国 (© Cheryl Schneider/Alamy Stock Photo)</em>
+<img src="https://cn.bing.com/th?id=OHR.BeckettBridge_ZH-CN6206942429_UHD.jpg" alt="Bing Wallpaper" width="100%">
+<em>塞缪尔·贝克特桥, 都柏林, 爱尔兰 (© Colm Keating/Tandem Stills + Motion)</em>
 </div>
