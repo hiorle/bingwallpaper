@@ -1,4 +1,4 @@
 <div align="center">
-<img src="https://cn.bing.com/th?id=OHR.QingMingY25_ZH-CN9818431198_UHD.jpg" alt="Bing Wallpaper" width="100%">
-<em>苏州古镇风景，江苏省，中国 (© gyn9038/Getty Images)</em>
+<img src="https://cn.bing.com/th?id=OHR.GaztelugatxeSunset_ZH-CN0553703567_UHD.jpg" alt="Bing Wallpaper" width="100%">
+<em>日落时分的加兹特鲁加特岛 , 巴斯克地区, 西班牙 (© Eloi_Omella/Getty Images)</em>
 </div>
