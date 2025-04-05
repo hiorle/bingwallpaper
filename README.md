@@ -1,4 +1,4 @@
 <div align="center">
-<img src="https://cn.bing.com/th?id=OHR.GaztelugatxeSunset_ZH-CN0553703567_UHD.jpg" alt="Bing Wallpaper" width="100%">
-<em>日落时分的加兹特鲁加特岛 , 巴斯克地区, 西班牙 (© Eloi_Omella/Getty Images)</em>
+<img src="https://cn.bing.com/th?id=OHR.ShardLondon2025_ZH-CN0722863055_UHD.jpg" alt="Bing Wallpaper" width="100%">
+<em>碎片大厦，伦敦 (© Dennis Fischer Photography/Moment/Getty Images)</em>
 </div>
