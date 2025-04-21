@@ -1,4 +1,4 @@
 <div align="center">
-<img src="https://cn.bing.com/th?id=OHR.JoshuaStars_ZH-CN1375098210_UHD.jpg" alt="Bing Wallpaper" width="100%">
-<em>银河下的约书亚树，加利福尼亚州，美国 (© Chao Zhang/Getty Images)</em>
+<img src="https://cn.bing.com/th?id=OHR.YellowstoneSpring_ZH-CN2643482467_UHD.jpg" alt="Bing Wallpaper" width="100%">
+<em>大棱镜彩泉，黄石国家公园，怀俄明州，美国 (© Ajith Kumar/Getty Images)</em>
 </div>
