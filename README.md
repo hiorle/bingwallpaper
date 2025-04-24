@@ -1,4 +1,4 @@
 <div align="center">
-<img src="https://cn.bing.com/th?id=OHR.KenaiSpires_ZH-CN3045699778_UHD.jpg" alt="Bing Wallpaper" width="100%">
-<em>阿拉斯加基奈峡湾国家公园尖顶湾, 阿拉斯加州苏厄德, 美国 (© Wander Photography/Getty Images)</em>
+<img src="https://cn.bing.com/th?id=OHR.MagellanicPenguin_ZH-CN3177950090_UHD.jpg" alt="Bing Wallpaper" width="100%">
+<em>麦哲伦企鹅, 志愿者角, 福克兰群岛 (© imageBROKER/Matthias Graben/Getty Images)</em>
 </div>
