@@ -1,4 +1,4 @@
 <div align="center">
-<img src="https://cn.bing.com/th?id=OHR.OrangeImpala_ZH-CN3417660107_UHD.jpg" alt="Bing Wallpaper" width="100%">
-<em>莫雷米野生动物保护区的高角羚，博茨瓦纳 (© Paul Souders/Getty Images)</em>
+<img src="https://cn.bing.com/th?id=OHR.GardensVillandry_ZH-CN3660934263_UHD.jpg" alt="Bing Wallpaper" width="100%">
+<em>维朗德里城堡，卢瓦尔河谷，法国 (© Mint Images/Getty Images)</em>
 </div>
