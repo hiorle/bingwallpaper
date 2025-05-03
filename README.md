@@ -1,4 +1,4 @@
 <div align="center">
-<img src="https://cn.bing.com/th?id=OHR.ArchesGalaxy_ZH-CN0954505086_UHD.jpg" alt="Bing Wallpaper" width="100%">
-<em>拱门国家公园双拱门映衬下的银河，犹他州，美国 (© Adventure_Photo/Getty Images)</em>
+<img src="https://cn.bing.com/th?id=OHR.SevilleNaboo_ZH-CN1065227658_UHD.jpg" alt="Bing Wallpaper" width="100%">
+<em>西班牙广场，塞维利亚，西班牙 (© Horia Merla/Getty Images)</em>
 </div>
