@@ -1,4 +1,4 @@
 <div align="center">
-<img src="https://cn.bing.com/th?id=OHR.ButchartFlowers_ZH-CN6692930571_UHD.jpg" alt="Bing Wallpaper" width="100%">
-<em>布伦特伍德湾的布查特花园，不列颠哥伦比亚省，加拿大 (© 2009fotofriends/Shutterstock)</em>
+<img src="https://cn.bing.com/th?id=OHR.Arashiyama2025_ZH-CN7836747321_UHD.jpg" alt="Bing Wallpaper" width="100%">
+<em>沿着岚山保津川行驶的火车，京都，日本 (© Alvin Huang/Getty Images)</em>
 </div>
