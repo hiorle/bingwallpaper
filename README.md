@@ -1,4 +1,4 @@
 <div align="center">
-<img src="https://cn.bing.com/th?id=OHR.EchinaceaButterfly_ZH-CN7877489878_UHD.jpg" alt="Bing Wallpaper" width="100%">
-<em>一只停在紫锥菊上的灰蝶，洛克菲勒州立公园，纽约 (© Marianne A. Campolongo/Alamy)</em>
+<img src="https://cn.bing.com/th?id=OHR.BicyclesUtrecht_ZH-CN8016028978_UHD.jpg" alt="Bing Wallpaper" width="100%">
+<em>乌得勒支桥上的自行车，荷兰 (© George Pachantouris/Getty Images)</em>
 </div>
