@@ -1,4 +1,4 @@
 <div align="center">
-<img src="https://cn.bing.com/th?id=OHR.NormandyBeach_ZH-CN9312381737_UHD.jpg" alt="Bing Wallpaper" width="100%">
-<em>诺曼底的阿罗芒什莱班 , 法国 (© Horia Merla/Getty Images)</em>
+<img src="https://cn.bing.com/th?id=OHR.PacificCrestTrail_ZH-CN9582395021_UHD.jpg" alt="Bing Wallpaper" width="100%">
+<em>松山顶峰, 洛杉矶国家森林公园, 加利福尼亚州, 美国 (© Matthew Kuhns/TANDEM Stills + Motion)</em>
 </div>
