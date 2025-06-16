@@ -1,4 +1,4 @@
 <div align="center">
-<img src="https://cn.bing.com/th?id=OHR.SeaTurtleBrazil_ZH-CN6907161064_UHD.jpg" alt="Bing Wallpaper" width="100%">
-<em>海龟，费尔南多·迪诺罗尼亚群岛，巴西 (© João Vianna/Getty Images)</em>
+<img src="https://cn.bing.com/th?id=OHR.CumberlandOaks_ZH-CN7265906780_UHD.jpg" alt="Bing Wallpaper" width="100%">
+<em>坎伯兰岛国家海岸的海滨森林，乔治亚州，美国 (© Chris Moore/TANDEM Stills + Motion)</em>
 </div>
