@@ -21,9 +21,6 @@ jobs:
       - name: Install requests
         run: pip install requests
 
-      - name: Download Bing Wallpapers
-        run: python program/download_wallpapers.py
-
       - name: Generate README.md
         run: python program/generate_readme.py
 
