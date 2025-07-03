@@ -31,6 +31,6 @@ jobs:
         run: |
           git config --global user.name 'GitHub Actions Bot'
           git config --global user.email 'actions@github.com'
-          git data/data.json README.md
+          git add README.md data/data.json
           git commit -m "Update daily Bing wallpapers and index.html with styling: $(date +'%Y-%m-%d')" || echo "No changes to commit"
           git push origin main
