@@ -1,4 +1,4 @@
 <div align="center">
-<img src="https://cn.bing.com/th?id=OHR.OroseiSardegna_ZH-CN5789138034_UHD.jpg" alt="Bing Wallpaper" width="100%">
-<em>奥罗塞，撒丁岛，意大利 (© EyeEm Mobile GmbH/Getty Images)</em>
+<img src="https://cn.bing.com/th?id=OHR.BolozonViaduct_ZH-CN6408632524_UHD.jpg" alt="Bing Wallpaper" width="100%">
+<em>Cize-Bolozon viaduct crossing the Ain gorge, France (© Leonid Andronov/Getty Images)</em>
 </div>
