@@ -1,4 +1,4 @@
 <div align="center">
-<img src="https://cn.bing.com/th?id=OHR.ConstitucionStation_ZH-CN7962568053_UHD.jpg" alt="Bing Wallpaper" width="100%">
-<em>宪法火车站，布宜诺斯艾利斯，阿根廷 (© Grafissimo/Getty Images)</em>
+<img src="https://cn.bing.com/th?id=OHR.BahamaBlues_ZH-CN8134624828_UHD.jpg" alt="Bing Wallpaper" width="100%">
+<em>巴哈马的绿松石色水域 (© BlueOrange Studio/Adobe Stock)</em>
 </div>
