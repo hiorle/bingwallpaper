@@ -1,4 +1,4 @@
 <div align="center">
-<img src="https://cn.bing.com/th?id=OHR.ThomsonGazelle_ZH-CN0413171014_UHD.jpg" alt="Bing Wallpaper" width="100%">
-<em>汤氏瞪羚母亲和小鹿，马赛马拉，肯尼亚 (© Gallo Images/DanitaDelimont.com)</em>
+<img src="https://cn.bing.com/th?id=OHR.BasaltColumns_ZH-CN0743036217_UHD.jpg" alt="Bing Wallpaper" width="100%">
+<em>卡尔夫沙马尔斯维克湾玄武岩柱，斯卡吉半岛，冰岛 (© Arterra Picture Library/Alamy Stock Photo)</em>
 </div>
