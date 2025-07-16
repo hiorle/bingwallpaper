@@ -1,4 +1,4 @@
 <div align="center">
-<img src="https://cn.bing.com/th?id=OHR.TemplePhilae_ZH-CN1232015188_UHD.jpg" alt="Bing Wallpaper" width="100%">
-<em>菲莱神庙 (aka Temple of Isis), 阿斯旺, 埃及 (© Ratnakorn Piyasirisorost/Getty Images)</em>
+<img src="https://cn.bing.com/th?id=OHR.FranceLavender_ZH-CN1639602547_UHD.jpg" alt="Bing Wallpaper" width="100%">
+<em>瓦朗索勒高原的薰衣草田，法国 (© zpagistock/Getty Images)</em>
 </div>
