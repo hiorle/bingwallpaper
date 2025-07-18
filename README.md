@@ -1,4 +1,4 @@
 <div align="center">
-<img src="https://cn.bing.com/th?id=OHR.IcelandSolstice_ZH-CN6073168622_UHD.jpg" alt="Bing Wallpaper" width="100%">
-<em>塞里雅兰瀑布日落美景，冰岛 (© Tom Mackie/AWL/plainpicture)</em>
+<img src="https://cn.bing.com/th?id=OHR.YohoNP_ZH-CN2349599497_UHD.jpg" alt="Bing Wallpaper" width="100%">
+<em>幽鹤国家公园的伯吉斯山和翡翠湖, 不列颠哥伦比亚省, 加拿大 (© Feng Wei Photography/Getty Images)</em>
 </div>
