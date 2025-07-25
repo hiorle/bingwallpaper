@@ -1,4 +1,4 @@
 <div align="center">
-<img src="https://cn.bing.com/th?id=OHR.LasPalmas_ZH-CN5993442425_UHD.jpg" alt="Bing Wallpaper" width="100%">
-<em>大加那利岛拉斯帕尔马斯色彩缤纷的房屋鸟瞰图，西班牙 (© Marco Bottigelli/Getty Images)</em>
+<img src="https://cn.bing.com/th?id=OHR.MangroveTwilight_ZH-CN3596666263_UHD.jpg" alt="Bing Wallpaper" width="100%">
+<em>黄昏时的红树林，瓦拉基里海滩，松巴岛，印度尼西亚 (© Boonchet Ch./Getty Images)</em>
 </div>
