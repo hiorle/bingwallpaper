@@ -1,4 +1,4 @@
 <div align="center">
-<img src="https://cn.bing.com/th?id=OHR.GasparillaLight_ZH-CN6855683859_UHD.jpg" alt="Bing Wallpaper" width="100%">
-<em>加斯帕里拉岛灯塔后导标灯, 博卡格兰德, 佛罗里达州, 美国 (© Wiltser/Getty Images)</em>
+<img src="https://cn.bing.com/th?id=OHR.IguazuArgentina_ZH-CN4457051931_UHD.jpg" alt="Bing Wallpaper" width="100%">
+<em>伊瓜苏瀑布的三火枪瀑布, 阿根廷 (© Mark Meredith/Getty Images)</em>
 </div>
